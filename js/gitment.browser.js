@@ -3360,7 +3360,8 @@ var Gitment = function () {
     this.useTheme(_default2.default);
 
     Object.assign(this, {
-      id: window.location.href,
+      // id: window.location.href, //默认可选 id: '<%= page.date %>' ,'<%= page.title %>'
+      id: '<%= page.date %>'
       title: window.document.title,
       link: window.location.href,
       desc: '',
