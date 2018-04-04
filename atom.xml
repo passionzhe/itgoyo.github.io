@@ -390,9 +390,9 @@
     </summary>
     
     
-      <category term="Mac" scheme="https://github.com/itgoyo/tags/Mac/"/>
-    
       <category term="Vim" scheme="https://github.com/itgoyo/tags/Vim/"/>
+    
+      <category term="Mac" scheme="https://github.com/itgoyo/tags/Mac/"/>
     
   </entry>
   
